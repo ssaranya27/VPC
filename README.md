@@ -4,12 +4,8 @@
 ## Name: SARANYA S.
 ## Register Number: 212223220101
 
----
-
 ## AIM
 To study the steps involved in setting up a private cloud using **AWS** or **Microsoft Azure** platforms and explore its core features and services.
-
----
 
 ## PROCEDURE
 
@@ -17,8 +13,6 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 - Sign up for an account on **AWS** or **Microsoft Azure**.
 - Complete verification using your **email** and **credit card**.
 - Log in to the **AWS Management Console** or **Azure Portal**.
-
----
 
 ### **Step 2: Set Up a Virtual Private Cloud (VPC / VNet)**
 - **For AWS:**
